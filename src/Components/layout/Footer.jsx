@@ -53,13 +53,13 @@ export function Footer() {
             <div className="flex flex-col gap-2 font-poppins font-light text-[15px] leading-[26px]">
               <div className="flex items-center gap-2">
                 <FontAwesomeIcon icon={faPhone} className="h-4 w-4" />
-                <a href="tel:+923319660156">+92 335 1148888</a>
+                <a href="tel:+353 (86) 8265400">+353 (86) 8265400</a>
               </div>
 
               <div className="flex items-center gap-2">
                 <FontAwesomeIcon icon={faEnvelope} className="h-4 w-4" />
-                <a href="mailto:info@Dynsol.co" target="_blank">
-                  info@Dynsol.co
+                <a href="mailto:Hr@dynsol.ie" target="_blank">
+                  Hr@dynsol.ie
                 </a>
               </div>
 
@@ -69,7 +69,7 @@ export function Footer() {
                   className="h-4 w-4 mt-1"
                 />
                 <a href="https://goo.gl/maps/6x5jkDZgode7pP4v6" target="_blank">
-                  House # 14 SubhanAllah Garden Welfare Society Lahore
+                  Block A, The Taldot Building, Civic Street, Cherrywood, Dublin 18, D18K7PA
                 </a>
               </div>
             </div>
