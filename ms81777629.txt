@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "dynsol.co",
+  "Id": "54644e4f-ce8a-44c9-9ca8-e11b9c222425"
+}
